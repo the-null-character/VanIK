@@ -44,7 +44,7 @@ def insight_sent():
 def Process(keywords,genre):
   
 
-    api_key = 'AIzaSyCeGZwfk9MYlwOIJk3uUbmenWJskyNkgO4'
+    api_key = 'API KEY HERE'
     #gmaps = googlemaps.Client(key=api_key)
 
     response = requests.get("https://ipinfo.io")
