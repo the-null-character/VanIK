@@ -2,7 +2,7 @@
 # import os
 # import pandas as pd
 # import time
-# openai.api_key = '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'
+# openai.api_key = 'API KEY HERE'
 # def get_completion(prompt, model="gpt-3.5-turbo"):
 #     messages = [{"role": "user", "content": prompt}]
 #     response = openai.ChatCompletion.create(
